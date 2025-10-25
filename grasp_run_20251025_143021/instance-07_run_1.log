@@ -1,0 +1,5 @@
+(Iter. 0 | Time: 15.642) BestSol = Solution: cost=[1509.0], size=[55]
+(Iter. 2 | Time: 48.897) BestSol = Solution: cost=[1531.0], size=[52]
+>>> Tempo limite atingido (1800s)
+Best solution = Solution: cost=[1531.0], size=[52]
+Time = 1800.097 seg

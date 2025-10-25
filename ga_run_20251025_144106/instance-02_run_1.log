@@ -1,0 +1,13 @@
+(Gen. 0) BestSol = Solution: cost=[133.0], size=[19]
+(Gen. 1 | Time: 0.048) BestSol = Solution: cost=[158.0], size=[16]
+(Gen. 2 | Time: 0.346) BestSol = Solution: cost=[171.0], size=[15]
+(Gen. 5 | Time: 0.384) BestSol = Solution: cost=[177.0], size=[14]
+(Gen. 6 | Time: 0.409) BestSol = Solution: cost=[184.0], size=[14]
+(Gen. 7 | Time: 0.435) BestSol = Solution: cost=[189.0], size=[15]
+(Gen. 9 | Time: 0.485) BestSol = Solution: cost=[191.0], size=[14]
+(Gen. 12 | Time: 0.56) BestSol = Solution: cost=[192.0], size=[15]
+(Gen. 13 | Time: 0.584) BestSol = Solution: cost=[195.0], size=[15]
+(Gen. 15 | Time: 0.633) BestSol = Solution: cost=[197.0], size=[17]
+(Gen. 18 | Time: 0.703) BestSol = Solution: cost=[200.0], size=[16]
+maxVal = Solution: cost=[200.0], size=[16]
+Time = 1800.209 seg

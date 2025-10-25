@@ -1,0 +1,9 @@
+(Iter. 0 | Time: 53.177) BestSol = Solution: cost=[4979.0], size=[125]
+(Iter. 1 | Time: 104.593) BestSol = Solution: cost=[4993.0], size=[130]
+(Iter. 6 | Time: 381.812) BestSol = Solution: cost=[5019.0], size=[120]
+(Iter. 13 | Time: 817.231) BestSol = Solution: cost=[5058.0], size=[126]
+(Iter. 19 | Time: 1291.838) BestSol = Solution: cost=[5088.0], size=[125]
+(Iter. 21 | Time: 1444.770) BestSol = Solution: cost=[5108.0], size=[122]
+>>> Tempo limite atingido (1800s)
+Best solution = Solution: cost=[5108.0], size=[122]
+Time = 1800.050 seg

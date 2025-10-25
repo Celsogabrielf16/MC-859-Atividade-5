@@ -1,0 +1,8 @@
+(Gen. 0) BestSol = Solution: cost=[259.0], size=[15]
+(Gen. 3 | Time: 0.266) BestSol = Solution: cost=[272.0], size=[20]
+(Gen. 4 | Time: 0.349) BestSol = Solution: cost=[306.0], size=[17]
+(Gen. 5 | Time: 0.368) BestSol = Solution: cost=[344.0], size=[18]
+(Gen. 7 | Time: 0.467) BestSol = Solution: cost=[347.0], size=[17]
+(Gen. 11 | Time: 0.565) BestSol = Solution: cost=[354.0], size=[19]
+maxVal = Solution: cost=[354.0], size=[19]
+Time = 1800.179 seg
